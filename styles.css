@@ -61,14 +61,14 @@ background-color: #00adb5;
 
 .bottom-cloud {
   position: absolute;
-  bottom: 300px;
-  left: 300px;
+  bottom: 18.75em;
+  left: 18.75em;
 }
 
 .top-cloud {
   position: absolute;
-  top: 50px;
-  right: 300px;
+  top: 3.125em;
+  right: 18.75em;
 }
 
 .gaming-picture {
