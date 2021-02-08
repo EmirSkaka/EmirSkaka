@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+hr{
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+  opacity: 0.2;
+}
+
+.mountain-img{
+  position: relative;
+  top: 4px;
+}
+
+.profile-img{
+  margin-top: 10px;
+  height: 15%;
+  width: 15%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #00adb5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+margin-top: 100px;
+height: 100px;
+padding-top: 50px;
+background-color: #00adb5;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.gaming-picture {
+  height: 394px;
+  width: 394px;
+}
+
+a {
+  color: #75ecf0;
+  text-decoration: none;
+}
+
+.main-subtitle {
+  font-weight: normal;
+}
+
+.hello-text{
+  margin-bottom: 15px;
+}
+
+.profile-subtitle{
+margin: auto;
+width: 400px;
+margin-bottom: 50px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills-titles{
+  font-size: 25px;
+}
+
+.gaming-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ski-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-1{
+font-size: 50px;
+}
+
+.contact-2{
+font-size: 25px;
+}
+
+.contact-3{
+margin: 16px auto 16px auto;
+padding-top: 20px;
+padding-bottom: 20px;
+width: 370px;
+font-size: 20px;
+}
+
+.btn {
+	background:linear-gradient(to bottom, #66BFBF 5%, #11999e 100%);
+	background-color:#75efc0;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow: 0 1px 0 #2f6627;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #66BFBF 100%);
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link{
+  padding-right: 30px;
+}
+
+.footer-link:hover{
+  color: #11999E;
+}
+
+.copyright{
+  color: #EAF6F6;
+  padding-top: 20px;
+  font-size: 12px;
+}
